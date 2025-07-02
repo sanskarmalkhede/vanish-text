@@ -68,8 +68,9 @@ export default function VerificationEmail({
                             fontSize: 24,
                           }}
                         >
-                          Mystery Message
+                          Vanish Text
                         </h1>
+                        <p>Send messages and feedbacks anonymously</p>
                       </td>
                     </tr>
 
