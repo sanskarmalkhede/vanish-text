@@ -11,7 +11,7 @@ export async function sendVerificationEmail(
 ): Promise<ApiResponse> {
   try {
     await resend.emails.send({
-      from: "onboarding@resend.dev",
+      from: "malkhedesanskar@gmail.com",
       to: email,
       subject: "VanishText Verification Code",
       react: VerificationEmail({ username, otp: verifyCode }),

@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Message from User123",
+    "content": "Hey, how are you doing today?",
+    "received": "10 minutes ago"
+  },
+  {
+    "title": "Message from SecretAdmirer",
+    "content": "I really liked your recent post!",
+    "received": "2 hours ago"
+  },
+  {
+    "title": "Message from MysteryGuest",
+    "content": "Do you have any book recommendations?",
+    "received": "1 day ago"
+  },
+  {
+    "title": "Message from CuriousCat",
+    "content": "What's your favorite movie?",
+    "received": "3 days ago"
+  },
+  {
+    "title": "Message from OldFriend",
+    "content": "Long time no see! Let's catch up soon.",
+    "received": "1 week ago"
+  },
+  {
+    "title": "Message from WorkColleague",
+    "content": "Can we reschedule our meeting?",
+    "received": "2 weeks ago"
+  },
+  {
+    "title": "Message from FamilyMember",
+    "content": "Don't forget about the family gathering next weekend!",
+    "received": "3 weeks ago"
+  },
+  {
+    "title": "Message from RandomUser",
+    "content": "I found your profile interesting!",
+    "received": "1 month ago"
+  },
+  {
+    "title": "Message from FanClub",
+    "content": "Thank you for being a loyal supporter!",
+    "received": "2 months ago"
+  },
+  {
+    "title": "Message from Newsletter",
+    "content": "Check out our latest updates and offers.",
+    "received": "3 months ago"
+  },
+  {
+    "title": "Message from EventOrganizer",
+    "content": "Join us for the upcoming event next month!",
+    "received": "4 months ago"
+  },
+  {
+    "title": "Message from ServiceProvider",
+    "content": "Your subscription is about to expire.",
+    "received": "5 months ago"
+  },
+  {
+    "title": "Message from Survey",
+    "content": "We value your feedback. Please take our survey.",
+    "received": "6 months ago"
+  },
+  {
+    "title": "Message from PromotionalOffer",
+    "content": "Exclusive offer just for you!",
+    "received": "7 months ago"
+  },
+  {
+    "title": "Message from SystemNotification",
+    "content": "Your account settings have been updated.",
+    "received": "8 months ago"
+  },
+  {
+    "title": "Message from SecurityAlert",
+    "content": "Unusual login attempt detected.",
+    "received": "9 months ago"
+  },
+  {
+    "title": "Message from FeedbackRequest",
+    "content": "We would love to hear your thoughts on our service.",
+    "received": "10 months ago"
+  },
+  {
+    "title": "Message from Reminder",
+    "content": "Don't forget to complete your profile.",
+    "received": "11 months ago"
+  },
+  {
+    "title": "Message from Welcome",
+    "content": "Welcome to our platform! We're glad to have you.",
+    "received": "1 year ago"
+  }
+]
